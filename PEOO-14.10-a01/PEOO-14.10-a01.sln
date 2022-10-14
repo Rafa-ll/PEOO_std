@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exapp", "Exapp\Exapp.csproj", "{43DAFE1A-DCA0-43ED-948B-73BC47DB2386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DAFE1A-DCA0-43ED-948B-73BC47DB2386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DAFE1A-DCA0-43ED-948B-73BC47DB2386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DAFE1A-DCA0-43ED-948B-73BC47DB2386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DAFE1A-DCA0-43ED-948B-73BC47DB2386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A845B52-1D42-4166-8F3C-6084C5A044B6}
+	EndGlobalSection
+EndGlobal
